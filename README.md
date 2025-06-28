@@ -8,7 +8,7 @@ It reads **temperature and humidity** from a virtual DHT22 sensor, displays the 
 
 ## 📷 Screenshot
 
-![Simulation](wokwi_sim_screenshot.png)
+![Simulation]([wokwi_sim_screenshot.png](https://github.com/TombRaider885/iot-weather-station-simulator/blob/main/Temperature%20and%20humidity%20sensor.png))
 
 ## 🛠️ Tech Stack
 
